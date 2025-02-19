@@ -1,0 +1,21 @@
+
+.wrap {
+    display: flex;
+    flex-direction:column-reverse;
+    height: 400px;
+    gap: 17px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    gap: 17px;
+    margin-top: 17px;
+}
+
+button {
+    width: 30%;
+    height: 20%;
+}
+
